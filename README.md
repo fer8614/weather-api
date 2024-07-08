@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Weather Finder
+
+## React + TypeScript + Vite, API Consumption with axios and zod
+
+link https://chimerical-youtiao-bd2ad2.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
